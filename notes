@@ -1,0 +1,19 @@
+What i want to do:
+
+	Bash first
+	ncurses next
+
+
+
+	Take all input files
+	show files
+	
+	generate rsa key
+	split pub/priv key
+	verify keys
+	generate ca
+	generate csr
+		minimum (hostname)
+	
+
+
